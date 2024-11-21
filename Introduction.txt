@@ -16,3 +16,6 @@ Python:
 BeautifulSoup: For parsing and extracting data from HTML and XML.
 Scrapy: A powerful framework for large-scale web scraping.
 Selenium: For scraping dynamic websites that rely on JavaScript.
+Other Tools:
+Puppeteer (JavaScript): For headless browser automation.
+Browser plugins like Octoparse or ParseHub.
