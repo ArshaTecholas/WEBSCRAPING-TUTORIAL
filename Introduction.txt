@@ -3,3 +3,16 @@ This is webscraping tutorial
 Web scraping is the process of extracting data from websites.
 It involves using automated scripts or tools to gather information from web pages,
 typically for purposes like data analysis, market research, or content aggregation.
+Key Points About Web Scraping:
+How It Works:
+
+Web scraping tools or scripts send a request to a website's server.
+The server responds with the HTML content of the page.
+The script parses the HTML, identifying and extracting the required data.
+The data is then structured into a usable format, such as CSV, JSON, or a database.
+Common Tools and Libraries:
+
+Python:
+BeautifulSoup: For parsing and extracting data from HTML and XML.
+Scrapy: A powerful framework for large-scale web scraping.
+Selenium: For scraping dynamic websites that rely on JavaScript.
